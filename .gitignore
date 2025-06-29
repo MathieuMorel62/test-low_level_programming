@@ -54,3 +54,4 @@ dkms.conf
 # Compiled files
 quote
 0-positive_or_negative
+_putchar.c
